@@ -1,6 +1,6 @@
 # 兆能 ZN-M2 OpenWrt 固件
 
-无 WiFi / 无 USB / 弱电箱专用 · 内核 4.4.60 · 推荐内存 512M+
+无 WiFi / 有 USB / 弱电箱专用 · 内核 4.4.60 · 推荐内存 512M+
 
 感谢 [sdf8057](https://github.com/sdf8057/ipq6000) 大佬的 IPQ6000 源码贡献。
 
